@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Journals>
+  <Journal journame ="jnsa">
+    <Navigation>
+      <BigItem name ="Articles &amp; Issues">
+        <Item smallName = "Current Issue"/>
+        <Item smallName = "Previous Issues"/>
+        <Item smallName = "Published Ahead-of-Print"/>
+      </BigItem>
+      <BigItem name="For Authors">
+        <Item smallName = "Information for Authors"/>
+        <Item smallName = "Language Editing Services"/>
+      </BigItem>
+      <BigItem name="Journal Info">
+        <Item smallName = "About the Journal"/>
+        <Item smallName = "Editorial Board"/>
+        <Item smallName = "Affiliated Societies"/>
+        <Item smallName = "Advertising"/>
+        <Item smallName = "Open Access"/>
+        <Item smallName = "Subscription Services"/>
+        <Item smallName = "Reprints"/>
+        <Item smallName = "Rights and Permissions"/>
+      </BigItem>
+    </Navigation>
+  </Journal>
+  <Journal journame ="jonmd">
+    <Navigation>
+      <BigItem name ="Articles &amp; Issues">
+        <Item smallName = "Current Issue"/>
+        <Item smallName = "Previous Issues"/>
+        <Item smallName = "Published Ahead-of-Print"/>
+      </BigItem>
+      <BigItem name ="Collections"></BigItem>
+      <BigItem name="For Authors">
+        <Item smallName = "Information for Authors"/>
+        <Item smallName = "Language Editing Services"/>
+      </BigItem>
+      <BigItem name="Journal Info">
+        <Item smallName = "About the Journal"/>
+        <Item smallName = "Editorial Board"/>
+        <Item smallName = "Advertising"/>
+        <Item smallName = "Open Access"/>
+        <Item smallName = "Subscription Services"/>
+        <Item smallName = "Reprints"/>
+        <Item smallName = "Rights and Permissions"/>
+      </BigItem>
+    </Navigation>
+  </Journal>
+</Journals>
